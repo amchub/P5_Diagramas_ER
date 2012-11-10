@@ -1,0 +1,1 @@
+Destacamos que los atributos que identifican a la entidad 'Farmacia' son tanto 'nombre' como 'dirección', lo he considerado más intuitivo

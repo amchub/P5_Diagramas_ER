@@ -1,0 +1,1 @@
+Para este ejercicio hemos considerado una solo entidad 'Pruebas', que engloba tanto a las que hace el propio aeropuerto como las que exige la Agencia de Control de Tráfico Aéreo, para distinguir unas de otras hemos introducido un atributo 'tipo' en dicha entidad.

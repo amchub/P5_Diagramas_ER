@@ -1,0 +1,5 @@
+No estoy muy seguro de si se podría realizar, una forma podría ser crear una agregación que englobe a las entidades 'Técnicos' y 'Modelos' con la relación 'Experto_en'. 
+
+Es posible que ha esta agregación tambien se le agregase la entidad 'Aviones' y la relación 'Pertenece_a'.
+
+El resultado sería que la entidad 'Pruebas' estaría relacionada con la relación 'Realiza' a una de las dos agregaciones que he comentado antes.

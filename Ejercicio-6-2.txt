@@ -1,0 +1,1 @@
+Cambiamos 'precio' como entidad a 'precio' como atributo

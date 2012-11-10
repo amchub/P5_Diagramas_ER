@@ -1,0 +1,1 @@
+Supones que puede haber canciones con el mísmo título pero con distinto autor, por eso hemos identificado 'Canciones' con los atributos 'título' y 'autor' conjuntamente
